@@ -1,10 +1,2 @@
-streamlit
-folium
-geopy.geocoders
-html2image
-requests
-os
-time
-google.transit
-dotenv
-cv2
+streamlit==1.26.0
+folium==0.14.0
