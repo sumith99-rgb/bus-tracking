@@ -1,0 +1,7 @@
+requests==2.31.0
+folium==0.14.0
+geopy==2.2.0
+html2image==1.0.1
+opencv-python==4.7.0.72
+google==3.0.2
+protobuf==3.20.0
